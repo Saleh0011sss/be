@@ -70,9 +70,10 @@ function create_config( )
     "msg-checks",
     "plugins",
     "tools"
+    "warn"
  },
-    sudo_users = {157059515},
-    admins = {},
+    sudo_users = {188383245},
+    admins = {108950403},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[
